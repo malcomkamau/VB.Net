@@ -1,0 +1,16 @@
+C:\Users\Hp\OneDrive\Desktop\payrollSystem\bin\Debug\net8.0-windows\payrollSystem.exe
+C:\Users\Hp\OneDrive\Desktop\payrollSystem\bin\Debug\net8.0-windows\payrollSystem.deps.json
+C:\Users\Hp\OneDrive\Desktop\payrollSystem\bin\Debug\net8.0-windows\payrollSystem.runtimeconfig.json
+C:\Users\Hp\OneDrive\Desktop\payrollSystem\bin\Debug\net8.0-windows\payrollSystem.dll
+C:\Users\Hp\OneDrive\Desktop\payrollSystem\bin\Debug\net8.0-windows\payrollSystem.pdb
+C:\Users\Hp\OneDrive\Desktop\payrollSystem\obj\Debug\net8.0-windows\payrollSystem.Form1.resources
+C:\Users\Hp\OneDrive\Desktop\payrollSystem\obj\Debug\net8.0-windows\payrollSystem.vbproj.GenerateResource.cache
+C:\Users\Hp\OneDrive\Desktop\payrollSystem\obj\Debug\net8.0-windows\payrollSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Desktop\payrollSystem\obj\Debug\net8.0-windows\payrollSystem.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Desktop\payrollSystem\obj\Debug\net8.0-windows\payrollSystem.AssemblyInfo.vb
+C:\Users\Hp\OneDrive\Desktop\payrollSystem\obj\Debug\net8.0-windows\payrollSystem.vbproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Desktop\payrollSystem\obj\Debug\net8.0-windows\payrollSystem.dll
+C:\Users\Hp\OneDrive\Desktop\payrollSystem\obj\Debug\net8.0-windows\refint\payrollSystem.dll
+C:\Users\Hp\OneDrive\Desktop\payrollSystem\obj\Debug\net8.0-windows\payrollSystem.pdb
+C:\Users\Hp\OneDrive\Desktop\payrollSystem\obj\Debug\net8.0-windows\payrollSystem.genruntimeconfig.cache
+C:\Users\Hp\OneDrive\Desktop\payrollSystem\obj\Debug\net8.0-windows\ref\payrollSystem.dll
